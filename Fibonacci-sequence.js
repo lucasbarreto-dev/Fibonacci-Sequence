@@ -11,6 +11,8 @@ function F(n) {
         } else if(i >= 2){
             fibonacci.push(fibonacci[i - 1] + fibonacci[i - 2])
         }
-    } return fibonacci
+    } 
+
+    return fibonacci
      
  } 
