@@ -12,7 +12,5 @@ function F(n) {
             fibonacci.push(fibonacci[i - 1] + fibonacci[i - 2])
         }
     } 
-
-    return fibonacci
-     
+    return fibonacci   
  } 
